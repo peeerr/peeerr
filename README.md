@@ -33,7 +33,6 @@
 <br>
 <div align="center">
     
-![Peeerr's github stats](https://github-readme-stats.vercel.app/api?username=peeerr&show_icons=true)
-    
+![Peeerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeerr&show_icons=true&theme=radical)
 </div>
 
