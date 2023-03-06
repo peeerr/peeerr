@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-    <Strong>🛠️ Tech Stack & Studying</Strong><br>
+    <Strong>🛠️ Tech Stack</Strong><br>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center" display="inline-block">
-  <String>🔨 Tools</String><br><br>
+  <Strong>🔨 Tools</Strong><br><br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
