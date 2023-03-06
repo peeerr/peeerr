@@ -2,7 +2,7 @@
 
 <p align="center">
 <h1 align="center">👋 Hi, I'm JunHyeong</h1><br>
-<h3 align="center">I'm a backend developer.</h3>
+<h3 align="center">I am a backend developer who strives to grow as a more valuable developer.</h3>
 </p>
 <br><br>
 
