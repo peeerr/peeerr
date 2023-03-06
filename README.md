@@ -11,7 +11,6 @@
   <Strong>🎈 About Me</Strong><br><br>
   <a href="mailto:ajfeh22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://velog.io/@peeeeer"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@peeeeer"></a>
-    <br>
 </p>
 <br>
 
@@ -45,10 +44,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
-<br>
+<br><br>
 
 <div align="center">
-    
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeerr&langs_count=4&layout=compact&theme=radical) <br><br>
 ![Peeerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeerr&show_icons=true&theme=radical)
 </div>
+
+
 
