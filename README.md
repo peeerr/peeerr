@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JunHyeong's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-### I'm a backend developer using Java/Spring.
-### I'm trying to grow into a more valuable developer.
-<hr />
-
 ### 👋 ABOUT ME <br>
 <a href="mailto:ajfeh22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@peeeeer"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@peeeeer"></a>
