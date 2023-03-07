@@ -45,7 +45,7 @@
 </div>
 <hr />
 
-###  OVERVIEW
+### 🌱 OVERVIEW
 ![Peeerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeerr&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeerr&layout=compact&theme=radical&langs_count=4)
