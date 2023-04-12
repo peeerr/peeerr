@@ -1,6 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=peeerr's%20GitHub%20Profile&descAlignY=51&descAlign=62) -->
 
-# Interested in Backend
+# JunHyeong Choi | 최준형
+
+## I'm Backend Developer
 
 ### 👋 ABOUT ME <br>
 <a href="mailto:ajfeh22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
