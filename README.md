@@ -6,7 +6,6 @@
 
 ### 👋 ABOUT ME <br>
 <a href="mailto:ajfeh22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://velog.io/@peeeeer"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@peeeeer">
 <hr />
 
 ### 🛠️ SKILLS</Strong>
