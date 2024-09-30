@@ -19,9 +19,13 @@
 
 #### 🛢️ DATABASE
 <div>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+</div>
+
+#### 📨 MESSAGING
+<div>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 </div>
 
 #### 🔨 DEVOPS
@@ -31,11 +35,13 @@
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white">
 </div>
 
+<!--
 #### ✏️ STUDYING
 <div>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
+-->
 
 #### 
 
